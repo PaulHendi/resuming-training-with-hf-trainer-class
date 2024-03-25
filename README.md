@@ -1,4 +1,4 @@
-# Question 2 : Resuming training
+# Resuming training
 
 The notebook demonstrates a way to save model checkpoints during training using the Trainer class from Hugging Face <img src="./images/HF.png" width="15" height="15">
 . It not only saves checkpoints locally but also to cloud storage services, with examples for Amazon S3 and Google Cloud Storage (GCS).
